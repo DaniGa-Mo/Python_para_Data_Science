@@ -10,7 +10,7 @@ Curso de Python para Data Science: trabajar con funciones, estructuras de datos 
 <ul> :white_check_mark: Utilizar paquetes/bibliotecas e importar métodos específicos de estas.</ul>
 
 
-## :sparkles: I.- Funciones
+## :sparkles: II.- Funciones
   :pushpin: Lo que aprendimos en esta aula:
 
 <ul> :white_check_mark: Comprender qué son las funciones integradas (built-in functions) y cómo usarlas.</ul>
@@ -18,3 +18,10 @@ Curso de Python para Data Science: trabajar con funciones, estructuras de datos 
 <ul> :white_check_mark: Crear funciones con y sin retorno de valores.</ul>
 <ul> :white_check_mark: Documentar las funciones utilizando Type hint, valor predeterminado (default value) y docstring.</ul>
 <ul> :white_check_mark: Comprender y crear funciones anónimas (Lambda Functions).</ul>
+
+
+## :sparkles: III.- Estructura de datos
+  :pushpin: Lo que aprendimos en esta aula:
+
+<ul> :white_check_mark: Crear listas de listas y listas de tuplas.</ul>
+<ul> :white_check_mark: Acceder y extraer listas y elementos de una lista de listas.</ul>
