@@ -25,3 +25,13 @@ Curso de Python para Data Science: trabajar con funciones, estructuras de datos 
 
 <ul> :white_check_mark: Crear listas de listas y listas de tuplas.</ul>
 <ul> :white_check_mark: Acceder y extraer listas y elementos de una lista de listas.</ul>
+
+
+## :sparkles: IV.- Estructuras Anidadas
+  :pushpin: Lo que aprendimos en esta aula:
+
+<ul> :white_check_mark: Crear listas de diversas formas mediante la comprensión de listas (list comprehension).</ul>
+<ul> :white_check_mark: Crear diccionarios mediante la comprensión de diccionarios (dict comprehension).</ul>
+<ul> :white_check_mark: Trabajar con listas de listas en diccionarios.</ul>
+<ul> :white_check_mark: Generar un nuevo registro clave/valor en un diccionario.</ul>
+
