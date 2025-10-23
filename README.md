@@ -35,3 +35,11 @@ Curso de Python para Data Science: trabajar con funciones, estructuras de datos 
 <ul> :white_check_mark: Trabajar con listas de listas en diccionarios.</ul>
 <ul> :white_check_mark: Generar un nuevo registro clave/valor en un diccionario.</ul>
 
+
+## :sparkles: V.- Trabajando con excepciones
+  :pushpin: Lo que aprendimos en esta aula:
+
+<ul> :white_check_mark: Identificar los tipos de errores y excepciones.</ul>
+<ul> :white_check_mark: Manejar las excepciones mediante las cláusulas try, except, else y finally.</ul>
+<ul> :white_check_mark: Generar nuestras propias excepciones para comportamientos indeseados en el código.</ul>
+
